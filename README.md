@@ -9,7 +9,7 @@
     <a href="https://github.com/BrunoX8></a>
   </div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoX8&show_icons=true&theme=radical" /> ;
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoX8&show_icons=true&theme=radical)
   <img height="180em" alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoX8&layout=compact" />
 
   <div style="display: inline_block"><br>

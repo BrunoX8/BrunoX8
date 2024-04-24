@@ -9,4 +9,9 @@
     <a href="https://github.com/BrunoX8></a>
   </div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoX8)](https://github.com/anuraghazra/github-readme-stats)
+  <img alt="my-stats" src="https://github-readme-stats.vercel.app/api?username=BrunoX8&show_icons=true&theme=radical" />;
+  
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoX8&layout=compact" />
+
+
+
